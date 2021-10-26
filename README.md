@@ -2,9 +2,6 @@
 
 Analyzing Homelessness in the United States
 
-Jacob Waxman, Chloe Uhls
-Data Science
-10/25/21
 Data Science Project Milestone 1 
 
 Group: Jacob Waxman and Chloe Uhls
